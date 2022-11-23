@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: Inventorian BoE label
+## Author: N0tme
+## Notes: Show BoE label on items
+## RequiredDeps: Inventorian
+## Version: 1
+
+lib/libStub/LibStub.lua
+Inventorian_BoE.lua
+
